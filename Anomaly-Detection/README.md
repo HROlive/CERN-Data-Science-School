@@ -1,12 +1,12 @@
+[//]: # (Image Reference)
+
+[image1]: ./overview.PNG "Overview"
+
 ## Looking For Anomalies in Space
 
-### Watson Studio
+A simple and fun project where I look for aliens in an image taken by the Hubble telescope using Isolation Forrests, PCA and T-SNE.
 
-https://dataplatform.cloud.ibm.com
-
-### GPUs
-https://medium.com/ibm-watson/gpu-powered-notebook-is-coming-to-watson-studio-56876f60c056
-
+![Overview][image1]
 
 ## Data Source
 
