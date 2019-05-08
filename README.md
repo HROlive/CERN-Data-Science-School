@@ -1,3 +1,4 @@
 # CERN-Data-Science-School
+![alt text][logo]
 
-![alt text](https://www.lip.pt/data-science-2019/img/logo-general.png"Logo Title Text 1")
+[logo]: https://www.lip.pt/data-science-2019/img/logo-general.png "Logo Title Text 2"
