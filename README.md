@@ -1,7 +1,4 @@
-[//]: # (Image Reference)
-
-[image1]:./logo.png "logo"
 
 # CERN-Data-Science-School
 
-![logo][image1]
+![alt text](https://imgur.com/a/POfTLBu "Logo Title Text 1")
