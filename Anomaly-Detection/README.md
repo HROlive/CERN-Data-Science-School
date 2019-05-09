@@ -4,7 +4,7 @@
 
 ## Looking For Anomalies in Space
 
-A simple and fun project where I look for aliens in an image taken by the Hubble telescope using Isolation Forrests, PCA and T-SNE.
+A simple and fun individual project where I look for aliens in an image taken by the Hubble telescope using Isolation Forrests, PCA and T-SNE.
 
 ![Overview][image1]
 
