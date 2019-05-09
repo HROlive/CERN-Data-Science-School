@@ -1,6 +1,6 @@
 [//]: # (Image Reference)
 
-[image1]: ./logo.png "logo"
+[image1]:./logo.png "logo"
 
 # CERN-Data-Science-School
 
