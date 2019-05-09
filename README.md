@@ -1,6 +1,6 @@
 [//]: # (Image Reference)
 
-[image1]: ./images/logo.PNG "Logo"
+[image1]: ./images/school_logo.PNG "Logo"
 
 # LIP Data Science School
 
