@@ -2,6 +2,8 @@
 
 [image1]: ./images/school_logo.PNG "Logo"
 
-# LIP Data Science School
-
 ![Logo][image1]
+
+# Data Science School
+
+This repo contains all the projects developed during 
