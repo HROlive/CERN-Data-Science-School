@@ -1,4 +1,4 @@
 # CERN-Data-Science-School
 
 
-![alt text](https://www.lip.pt/data-science-2019/img/logo-general.png)
+![alt text](https://github.com/HROlive/CERN-LIP-Data-Science-School/logo.png)
