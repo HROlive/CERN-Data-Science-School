@@ -15,6 +15,6 @@ https://www.lip.pt/data-science-2019/?p=index
 
 ## Certificate
 
-The certificate for the course can be found bellow:
+The certificate for the course can be found below:
 
 ["Data Science in (Astro)Particle Physics and Cosmology" - Laboratório de Instrumentação e Física Experimental de Partículas](https://github.com/HROlive/LIP-Data-Science-School/blob/master/images/certificate.jpg) (Issued On: March 2019)
